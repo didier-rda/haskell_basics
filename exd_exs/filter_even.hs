@@ -1,0 +1,2 @@
+-- Double even
+doubleEven :: [Integer] -> []

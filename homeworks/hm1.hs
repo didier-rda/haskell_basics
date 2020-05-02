@@ -5,5 +5,3 @@ toDigitsRev n
 
 
 toDigits :: Integer -> [Integer]
-toDigits n = reverse (toDigitsRev n)
-
