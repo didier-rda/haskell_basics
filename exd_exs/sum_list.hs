@@ -6,3 +6,4 @@ multList :: [Integer] -> Integer
 multList [] = 1
 multList (x:xs) = x * multList xs
 --foldr (+) 0
+--
